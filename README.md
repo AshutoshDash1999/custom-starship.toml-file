@@ -5,6 +5,7 @@ A custom starship.toml file for anyone to use.
 
 
 Store the file in `./config`.
+Please check first if you have `FiraCode NF Bold`.
 
 ```
 # Replace the "❯" symbol in the prompt with "➜"
